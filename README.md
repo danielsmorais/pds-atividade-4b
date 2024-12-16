@@ -1,7 +1,41 @@
 # pds-atividade-4b
+IFRN/JC - PDS - Atividade do 4º bimestre
 
+### Instruções
+
+1. Realize o fork deste repositório para a sua conta do GitHub;
+2. Na sua conta, clone para a sua máquina local o seu repositório forkado;
+```
+git clone https://github.com/seu-usuario/nome-do-repositorio-forkado.git
+```
+3. Dentro do repositório, abra o arquivo `README.md` com o bloco de notas ou qualquer outro editor de texto;
+4. Encontre sua matrícula na lista de alunos e escreva seu nome ao lado, na coluna `Nome`;
+5. Salve o arquivo e o adicione ao `Staging Area`;
+```
+git add .
+```
+6. Crie um commit com a mensagem `"Assinado!"`;
+```
+git commit -m "mensagem"
+```
+7. Realize o envio das alterações para o repositório remoto;
+```
+git push origin nome-da-branch
+```
+8. Acesse o repositório remoto forkado e clique no botão `"Compare & pull request"` que aparecerá;
+9. Adicione uma descrição detalhada das alterações;
+10. Clique em `"Create pull request"`;
+11. Aguarde a aprovação da solicitação pelo professor;
+12. Envie o link do seu repositório pelo SUAP.
 
 ---
+
+> [!CAUTION]
+> Altere apenas o que foi solicitado!
+
+---
+
+### Lista de Alunos
 
 | #  | Matrícula      | Nome |
 | -- | -------------- | ---- |
