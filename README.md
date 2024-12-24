@@ -73,7 +73,7 @@ git push origin nome-da-branch
 | 32 | 20211064010031 |      |
 | 33 | 20211064010027 |  Pedro Henry da Silva Cunha    |
 | 34 | 20211064010025 |      |
-| 35 | 20211064010006 |      |
+| 35 | 20211064010006 |Ricardo Rhandolf Da Silva Souza|
 | 36 | 20211064010034 |Sabrina Vale da Silva|
 | 37 | 20211064010014 |      |
 | 38 | 20211064010028 |      |
