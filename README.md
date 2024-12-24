@@ -61,7 +61,7 @@ git push origin nome-da-branch
 | 20 | 20211064010016 |      |
 | 21 | 20201064010005 |      |
 | 22 | 20211064010026 |      |
-| 23 | 20211064010024 |      |
+| 23 | 20211064010024 |Jullya Rocha      |
 | 24 | 20211064010003 |Letícia Gabriele Gonçalves da Silva    |
 | 25 | 20211064010023 |      |
 | 26 | 20211064010012 |Maria Eduarda de Lima Pinho|
