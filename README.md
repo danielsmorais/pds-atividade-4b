@@ -80,5 +80,5 @@ git push origin nome-da-branch
 | 39 | 20201064010038 |Anny Gabriely Alexandre Câmara|
 | 40 | 20211064010037 |Taylane Gomes Cardoso      |
 | 41 | 20211064010009 |Thalita      |
-| 42 | 20201064010035 |      |
+| 42 | 20201064010035 | Thayse Feliciano Brito     |
 | 43 | 20211064010008 |Wermesson Cleinaldo
