@@ -72,7 +72,7 @@ git push origin nome-da-branch
 | 31 | 20211064010017 |Natália      |
 | 32 | 20211064010031 |Otavio|
 | 33 | 20211064010027 |  Pedro Henry da Silva Cunha    |
-| 34 | 20211064010025 |      |
+| 34 | 20211064010025 |Raquel   |
 | 35 | 20211064010006 |Ricardo Rhandolf Da Silva Souza|
 | 36 | 20211064010034 |Sabrina Vale da Silva|
 | 37 | 20211064010014 |      |
