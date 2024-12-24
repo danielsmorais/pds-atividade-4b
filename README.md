@@ -40,7 +40,7 @@ git push origin nome-da-branch
 | #  | Matrícula      | Nome |
 | -- | -------------- | ---- |
 | 1  | 20211064010040 |  Adaise da Silva do Nascimento.    |
-| 2  | 20211064010001 |      |
+| 2  | 20211064010001 |Alanna|
 | 3  | 20211064010004 |      |
 | 4  | 20211064010002 |Amanda   |
 | 5  | 20211064010038 |      |
