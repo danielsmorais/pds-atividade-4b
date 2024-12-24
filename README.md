@@ -66,7 +66,7 @@ git push origin nome-da-branch
 | 25 | 20211064010023 |      |
 | 26 | 20211064010012 |Maria Eduarda de Lima Pinho|
 | 27 | 20211064010036 |      |
-| 28 | 20201064010017 |    |
+| 28 | 20201064010017 | Ranielly    |
 | 29 | 20211064010005 |      |
 | 30 | 20211064010013 |Mirele Dantas da Silva   |
 | 31 | 20211064010017 |Natália      |
