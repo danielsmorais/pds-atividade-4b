@@ -70,7 +70,7 @@ git push origin nome-da-branch
 | 29 | 20211064010005 |      |
 | 30 | 20211064010013 |Mirele Dantas da Silva   |
 | 31 | 20211064010017 |Natália      |
-| 32 | 20211064010031 |      |
+| 32 | 20211064010031 |Otavio|
 | 33 | 20211064010027 |  Pedro Henry da Silva Cunha    |
 | 34 | 20211064010025 |      |
 | 35 | 20211064010006 |Ricardo Rhandolf Da Silva Souza|
