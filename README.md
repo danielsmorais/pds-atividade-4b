@@ -49,7 +49,7 @@ git push origin nome-da-branch
 | 8  | 20191064010030 |Arthur|
 | 9  | 20201064010032 |Emyle Maely|
 | 10 | 20211064010033 |Evelyn Maria Rodrigues da Conceição      |
-| 11 | 20211064010039 |      |
+| 11 | 20211064010039 |Ewerson Ryan|
 | 12 | 20211064010019 | Fábio de Paula Santos     |
 | 13 | 20201064010026 |Fabricio  |
 | 14 | 20201064010041 |Igor Chinayder |
@@ -81,4 +81,4 @@ git push origin nome-da-branch
 | 40 | 20211064010037 |Taylane Gomes Cardoso      |
 | 41 | 20211064010009 |Thalita      |
 | 42 | 20201064010035 | Thayse Feliciano Brito     |
-| 43 | 20211064010008 |Wermesson Cleinaldo
+| 43 | 20211064010008 |Wermesson Cleinaldo|
