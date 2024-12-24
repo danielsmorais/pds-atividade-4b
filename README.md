@@ -55,7 +55,7 @@ git push origin nome-da-branch
 | 14 | 20201064010041 |Igor Chinayder |
 | 15 | 20211064010007 |Ilane Aryane Guilherme Santana|
 | 16 | 20201064010006 |      |
-| 17 | 20211064010015 |      |
+| 17 | 20211064010015 | Jamily Quirino de Moura     |
 | 18 | 20211064010029 |      |
 | 19 | 20211064010011 |  itauan    |
 | 20 | 20211064010016 |      |
