@@ -58,7 +58,7 @@ git push origin nome-da-branch
 | 17 | 20211064010015 | Jamily Quirino de Moura     |
 | 18 | 20211064010029 |      |
 | 19 | 20211064010011 |  itauan    |
-| 20 | 20211064010016 |      |
+| 20 | 20211064010016 |Luciendyson|
 | 21 | 20201064010005 |Juciara da Silva Santos      |
 | 22 | 20211064010026 | Julia Eulália M da Siva     |
 | 23 | 20211064010024 |Jullya Rocha      |
