@@ -63,7 +63,7 @@ git push origin nome-da-branch
 | 22 | 20211064010026 | Julia Eulália M da Siva     |
 | 23 | 20211064010024 |Jullya Rocha      |
 | 24 | 20211064010003 |Letícia Gabriele Gonçalves da Silva    |
-| 25 | 20211064010023 |      |
+| 25 | 20211064010023 |Edna      |
 | 26 | 20211064010012 |Maria Eduarda de Lima Pinho|
 | 27 | 20211064010036 |      |
 | 28 | 20201064010017 | Ranielly    |
