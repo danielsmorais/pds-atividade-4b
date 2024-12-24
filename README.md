@@ -50,7 +50,7 @@ git push origin nome-da-branch
 | 9  | 20201064010032 |Emyle Maely|
 | 10 | 20211064010033 |      |
 | 11 | 20211064010039 |      |
-| 12 | 20211064010019 |      |
+| 12 | 20211064010019 | Fábio de Paula Santos     |
 | 13 | 20201064010026 |Fabricio  |
 | 14 | 20201064010041 |Igor Chinayder |
 | 15 | 20211064010007 |Ilane Aryane Guilherme Santana|
