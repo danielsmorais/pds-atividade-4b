@@ -65,7 +65,7 @@ git push origin nome-da-branch
 | 24 | 20211064010003 |Letícia Gabriele Gonçalves da Silva    |
 | 25 | 20211064010023 |Edna      |
 | 26 | 20211064010012 |Maria Eduarda de Lima Pinho|
-| 27 | 20211064010036 |      |
+| 27 | 20211064010036 |Janiele|
 | 28 | 20201064010017 | Ranielly    |
 | 29 | 20211064010005 |Matheus Eduardo da Silva Santos|
 | 30 | 20211064010013 |Mirele Dantas da Silva   |
