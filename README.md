@@ -60,7 +60,7 @@ git push origin nome-da-branch
 | 19 | 20211064010011 |  itauan    |
 | 20 | 20211064010016 |      |
 | 21 | 20201064010005 |      |
-| 22 | 20211064010026 |      |
+| 22 | 20211064010026 | Julia Eulália M da Siva     |
 | 23 | 20211064010024 |Jullya Rocha      |
 | 24 | 20211064010003 |Letícia Gabriele Gonçalves da Silva    |
 | 25 | 20211064010023 |      |
