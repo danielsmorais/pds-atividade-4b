@@ -42,7 +42,7 @@ git push origin nome-da-branch
 | 1  | 20211064010040 |  Adaise da Silva do Nascimento.    |
 | 2  | 20211064010001 |      |
 | 3  | 20211064010004 |      |
-| 4  | 20211064010002 |      |
+| 4  | 20211064010002 |Amanda   |
 | 5  | 20211064010038 |      |
 | 6  | 20211064010030 |      |
 | 7  | 20211064010010 |  Darlane Ribeiro Neves    |
