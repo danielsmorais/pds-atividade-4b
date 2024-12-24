@@ -75,7 +75,7 @@ git push origin nome-da-branch
 | 34 | 20211064010025 |Raquel   |
 | 35 | 20211064010006 |Ricardo Rhandolf Da Silva Souza|
 | 36 | 20211064010034 |Sabrina Vale da Silva|
-| 37 | 20211064010014 |      |
+| 37 | 20211064010014 | Selline Julia Lima Soares     |
 | 38 | 20211064010028 |Sofia Vitória Barbosa da Fonseca |
 | 39 | 20201064010038 |Anny Gabriely Alexandre Câmara|
 | 40 | 20211064010037 |Taylane Gomes Cardoso      |
